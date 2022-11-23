@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.form-regisration input{
+  border-radius: 0;
+  margin-bottom: -1px;
+}
+
+.datename h6{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.datename h5{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.sampah a i{
+  color: black;
+}
+
+.sampah a i:hover{
+  color: red;
+}
